@@ -1,0 +1,2 @@
+# LSTMprices
+Prediction of stock prices has always been of interest to every analyst. Traditional probabilistic models come with a lot of limitations and shortcomings some of much I have tried to overcome using LSTM RNN (Long Short Term Memory -Recurrent Neural Networks). Although there are quite a few LSTM models built for prediction of stock prices, many come with errors that are due to lack of fundamental knowledge of time series. I have tried to overcome those errors and create as good a model as it was possible.
